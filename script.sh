@@ -32,4 +32,5 @@ sudo service postgresql restart
 sudo docker run -d --restart=always --network host  -e KEY=$DIRECTUS_KEY   -e SECRET=$DIRECTUS_SECRET   -e ADMIN_EMAIL=$DIRESTUS_EMAIL -e ADMIN_PASSWORD="$DIRECTUS_ADMIN_PASS" -e DB_CLIENT="postgres" -e DB_HOST="localhost" -e DB_PORT="5432" -e DB_SSL="false" -e DB_DATABASE="$POSTGRESQL_DB_NAME" -e DB_USER="$POSTGRESQL_USER" -e DB_PASSWORD="$POSTGRESQL_USER_PASSWORD" directus/directus
 
 cd "$(dirname "$0")"
+cd weaviate
 docker-compose up -d
