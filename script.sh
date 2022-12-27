@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 SYSTEM_USERNAME="system_username"
 POSTGRESQL_USER="test_pguser"
