@@ -33,4 +33,4 @@ sudo docker run -d --restart=always --network host  -e KEY=$DIRECTUS_KEY   -e SE
 
 cd "$(dirname "$0")"
 cd weaviate
-docker-compose up -d
+sudo docker-compose up -d
