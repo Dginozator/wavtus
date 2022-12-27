@@ -12,7 +12,7 @@ This stack allows you to quickly solve data storage issues and provides the poss
 - PostgreSQL
   - backups with PostgreSQL
 - Directus
-  - beautiful and convinient admin panel by Directus
+  - beautiful and convinient admin panel
   - REST and GraphQL API
   - flexible access settings for different users
 - Weaviate
