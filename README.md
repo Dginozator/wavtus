@@ -11,9 +11,11 @@ This stack allows you to quickly solve data storage issues and provides the poss
 ## Stack features
 - PostgreSQL
   - backups with PostgreSQL
-- beautiful and convinient admin panel by Directus
-- REST and GraphQL API
-- flexible access settings for different users
-- semantic search
-- simple read and write data with Python, NodeJS
-- objects like a vectors, moreover semantic similarity is expressed in closer vectors.
+- Directus
+  - beautiful and convinient admin panel by Directus
+  - REST and GraphQL API
+  - flexible access settings for different users
+- Weaviate
+  - semantic search
+  - simple read and write data with Python, NodeJS
+  - objects like a vectors, moreover semantic similarity is expressed in closer vectors.
