@@ -1,0 +1,2 @@
+# wavtus
+Weaviate + Directus = Wavtus
