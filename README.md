@@ -29,3 +29,7 @@ It's drammatically simple.
 4. `bash -x script.sh`
 
 Now, [your_ip]:8055 - directus, [your_ip]:8080 - weaviate. Have fun!
+
+## Testing
+
+The script has been tested and debugged on Ubuntu 20.04, Yandex cloud platform.
