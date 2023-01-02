@@ -30,6 +30,14 @@ It's drammatically simple.
 
 Now, [your_ip]:8055 - directus, [your_ip]:8080 - weaviate. Have fun!
 
+## Requirements
+
+- x64 platform
+- 4 Gb RAM or more
+- 20 Gb HDD (or faster types)
+
+Note: GPU isn't required with default config.
+
 ## Testing
 
 The script has been tested and debugged on Ubuntu 20.04, Yandex cloud platform.
