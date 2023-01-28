@@ -26,6 +26,7 @@ It's drammatically simple.
 1. Install git, if not yet.
 2. `git clone https://github.com/Dginozator/wavtus`
 3. Go to wavtus directory.
+4. Edit params in config if you need (password and login for directus as an example).
 4. `bash -x script.sh`
 
 Now, [your_ip]:8055 - directus, [your_ip]:8080 - weaviate. Have fun!
