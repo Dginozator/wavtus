@@ -28,6 +28,7 @@ It's drammatically simple.
 3. Go to wavtus directory.
 4. Edit params in config if you need (password and login for directus as an example).
 4. `bash -x script.sh`
+5. start wavtus with https://weaviate.io/developers/weaviate/installation/docker-compose
 
 Now, [your_ip]:8055 - directus, [your_ip]:8080 - weaviate. Have fun!
 
