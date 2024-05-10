@@ -34,8 +34,8 @@ Now, [your_ip]:8055 - directus, [your_ip]:8080 - weaviate. Have fun!
 ## Requirements
 
 - x64 platform
-- 4 Gb RAM or more
-- 20 Gb HDD (or faster types)
+- 4+ Gb RAM
+- 20+ Gb HDD or faster type
 
 Note: GPU isn't required with default config.
 
